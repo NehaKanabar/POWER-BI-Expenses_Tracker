@@ -12,7 +12,7 @@
     
    <div class="image-container">
      <p>📷 Power BI Dashboard Screenshot:</p>
-      <img src="https://example.com/path/to/screenshot.png">
+      <img src="https://github.com/NehaKanabar/POWER-BI-Expenses_Tracker/assets/130577117/1dbaf798-2346-4297-b4f6-3f4af0e59d3e">
    </div>
 
   <h2>📈 Data Analysis</h2>
